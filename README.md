@@ -1,6 +1,7 @@
 # spectrocopy
 This is one most interesting academic project I have done in University of Oulu 
 
+More details: https://lovelace.oulu.fi/ohjelmoinnin-alkeet/ohjelmoinnin-alkeet-2016/spektri%C3%A4-pukkaa/
 
 ## Description
 
