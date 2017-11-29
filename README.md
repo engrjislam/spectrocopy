@@ -11,4 +11,5 @@ In electron spectroscopy matter is examined by radiating it with a bright light 
 This project requires two third party libraries: numpy and matplotlib. There are multiple ways to install them. Windows installers     can be found for both, and can also be installed them using pip. There are also various full stack installers available in the internet (full stack means they install Python along with a bunch of libraries, usually replacing "generic" Python installation). 
     
 :numpy::
+
 :matplotlib::
